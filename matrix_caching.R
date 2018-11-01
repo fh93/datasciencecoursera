@@ -1,4 +1,3 @@
-setwd("C:/Users/fhemstra/Documents/Coursera")
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
